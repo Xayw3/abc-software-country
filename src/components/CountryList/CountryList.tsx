@@ -66,7 +66,7 @@ const CountryList = () => {
                 <ul className="countries">
                   { countries.length > 0
                     ? countries.map(({ name, code }) => (
-                      <li>
+                      <li key={Math.random()}>
                         <button
                           onClick={() => getCountry(country?.name === undefined || country?.name !== name ? code : '')}
                           className="countries__btn"
