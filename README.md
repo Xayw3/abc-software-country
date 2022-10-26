@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# ABC software
+
+## Tasks
+
+ - Jāielādē datus par valstim no servisa https://countries.trevorblades.com/
+
+ - Datu izgūšanai jāizmanto query countries
+
+ - Datus jāattēlo saraksta veidā
+
+ - Nospiežot uz vienu no rindām jāattēlo papildinformācija par valsts izmantojot query country
+
+ - Ielādējot datus jāattēlo Loading... teksts, vai UI komponenti
+
+ - Kļūdas gadījumā jāattēlo kļūdas paziņojums
+
+ - Jāizmanto ReactJS un GraphQL Queries
+
+ - Jābūt minimālam dizainam, lai dati būtu vizuāli saskatāmi
+
+ - Kodu piegādāt izmantojot publisku git repozitoriju
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
