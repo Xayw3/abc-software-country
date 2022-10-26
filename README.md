@@ -2,6 +2,8 @@
 
 Link : https://xayw3.github.io/abc-software/
 
+<iframe src="https://giphy.com/embed/HFqMt3YHfSQOlRiLN9" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HFqMt3YHfSQOlRiLN9">via GIPHY</a></p>
+
 ## Tasks
 
  - Jāielādē datus par valstim no servisa https://countries.trevorblades.com/
