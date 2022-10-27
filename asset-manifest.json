@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abc-software-country/static/css/main.732ce3a9.css",
+    "main.js": "/abc-software-country/static/js/main.fae5b8be.js",
+    "static/js/787.dc822e54.chunk.js": "/abc-software-country/static/js/787.dc822e54.chunk.js",
+    "index.html": "/abc-software-country/index.html",
+    "main.732ce3a9.css.map": "/abc-software-country/static/css/main.732ce3a9.css.map",
+    "main.fae5b8be.js.map": "/abc-software-country/static/js/main.fae5b8be.js.map",
+    "787.dc822e54.chunk.js.map": "/abc-software-country/static/js/787.dc822e54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.732ce3a9.css",
+    "static/js/main.fae5b8be.js"
+  ]
+}
